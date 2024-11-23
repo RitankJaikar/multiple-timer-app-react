@@ -1,5 +1,5 @@
 ## Live Demo
-[Check out the app here](https://your-live-url-here.com)
+[Check out the app here](https://ritankjaikar.github.io/multiple-timer-app-react/)
 
 # Multiple Timers App React
 
